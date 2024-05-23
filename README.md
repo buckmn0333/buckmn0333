@@ -16,7 +16,7 @@ I'm Joshua, originally from Minnesota but relocated to the greater Denver area a
 - 📫 How to reach me: Linkenin & Github 
 
 ## Examples of MY Work
-<img src="https://github.com/buckmn0333/buckmn0333/blob/main/giphy.gif" width="256" />
+<img src="https://github.com/buckmn0333/buckmn0333/blob/main/giphy.gif" width="256" />](https://github.com/buckmn0333/HR-Dashboard-MySQL-PowerBI)
 
 ![logo]: "https://private-user-images.githubusercontent.com/117545217/332768483-8bb56b3b-3c9c-479e-8bc6-9a442c49a808.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTY0MzEwOTUsIm5iZiI6MTcxNjQzMDc5NSwicGF0aCI6Ii8xMTc1NDUyMTcvMzMyNzY4NDgzLThiYjU2YjNiLTNjOWMtNDc5ZS04YmM2LTlhNDQyYzQ5YTgwOC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUyM1QwMjE5NTVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00NmFmNjU2NDY0YmQzNTBhMjIxMDU2Y2M5Yzk4NWVkZmRmNTUyOTE3ZWEyNjIyMjliYmZhZmQ0MDdkNzY5NmVmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.gkmlBbb72QlivKyB5RJsdXMQH7REQX-mfFoER9yHf5c"
 
