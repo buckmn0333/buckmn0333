@@ -22,11 +22,6 @@ I'm Joshua, originally from Minnesota but relocated to the greater Denver area a
 #### HR Employee Report Dashboard 
 <a href="https://github.com/buckmn0333/HR-Dashboard-MySQL-PowerBI"><img src="https://github.com/buckmn0333/buckmn0333/blob/main/HR-Employee-Report.jpg?raw=true" width="256" ></a>
 
-
-
-
-
-
 ### Web Projects
 #### Recipes
 <a href="https://buckmn0333.github.io/odin-recipes/"><img src="https://github.com/buckmn0333/buckmn0333/blob/main/giphy.gif" width="256" ></a>
