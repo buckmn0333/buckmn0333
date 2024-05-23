@@ -4,7 +4,7 @@
 ### Design and Development
 
 I'm Joshua, originally from Minnesota but relocated to the greater Denver area a few years ago. My college background is Information Technology and Systems and I currently work as a Data Center Support Technician at a major Tier 3 colocation Data Center. I really love anything in the tech industry and it is my greatest passion. My github profile is dedicated solely to my Development/Programming side in Tech. I'm mainly focusing on Web Development, Database Management, SQL, Analytics and other types of programming and or DEVOP realted stuff. My goal is to move out of the hardware side and get more into a DevOp or software engineering role, so a lot of what I will being doing here is setting up different projects and portfolios showcasing my skillset, as well as just have some fun designing and tapping into my creative side. 
-
+<a href="https://github.com/buckmn0333/HR-Dashboard-MySQL-PowerBI"><img src="https://github.com/buckmn0333/buckmn0333/blob/main/HR-Employee-Report.jpg?raw=true" width="256" ></a>
 ## Skills and Experience
 ### NodeJS / REACT / JS / HTML / CSS / SQL / PowerBI
 
@@ -24,3 +24,6 @@ I'm Joshua, originally from Minnesota but relocated to the greater Denver area a
 ### Web Projects
 #### Recipes
 <a href="https://buckmn0333.github.io/odin-recipes/"><img src="https://github.com/buckmn0333/buckmn0333/blob/main/giphy.gif" width="256" ></a>
+
+
+https://github.com/buckmn0333/buckmn0333/blob/main/HR-Employee-Report.jpg?raw=true
