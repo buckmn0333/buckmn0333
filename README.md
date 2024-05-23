@@ -13,7 +13,8 @@ I'm Joshua, originally from Minnesota but relocated to the greater Denver area a
 - 👯 I’m looking to collaborate on Web Apps 
 - 🤔 I’m looking for help with Devlopment Career Paths 
 - 💬 Ask me about Anything Tech and Work 
-- 📫 How to reach me: Linkenin & Github > [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/buckmn0333)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/buckmn0333)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/joshua-b-a830951a4//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/buckmn0333)  
+- 📫 How to reach me: Linkenin & Github
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/buckmn0333)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/buckmn0333)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/joshua-b-a830951a4//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/buckmn0333)  
 
 ## Examples of MY Work
 ### Databases & SQL
